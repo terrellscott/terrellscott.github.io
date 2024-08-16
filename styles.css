@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #7BE495;
+    color: #F5FFEB;
+    font-family: "Hind", sans-serif;
+    font-style: bold;
+    
+}
+
+header {   
+    color: #205072;
+    padding: 10px 0;
+    text-align: center;
+    height: 20%;
+    color: #236477;
+    font-family: "Roboto", sans-serif;
+}
+
+
+main {
+    padding: 20px;    
+}
+
+footer {
+    background-color: #205072;
+    color: #CFF4D2;
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;    
+}
+
+a:link {
+    color: #205072;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #329D9C;
+    text-decoration: none;
+}
+
+
