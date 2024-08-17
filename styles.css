@@ -1,19 +1,23 @@
+html {
+    height: 100%;
+}
+
 body {
     margin: 0;
     padding: 0;
-    background-color: #7BE495;
+    background-color: #7BE495;    
     color: #F5FFEB;
     font-family: "Hind", sans-serif;
     font-style: bold;
-    
+    background-image: linear-gradient(#7BE495, #205072);
+    height: 80%;
 }
 
 header {   
     color: #205072;
     padding: 10px 0;
     text-align: center;
-    height: 20%;
-    color: #236477;
+    height: 10%;
     font-family: "Roboto", sans-serif;
 }
 
@@ -29,6 +33,7 @@ footer {
     text-align: center;
     position: fixed;
     bottom: 0;
+    height: 10%;
     width: 100%;    
 }
 
