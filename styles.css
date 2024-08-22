@@ -21,6 +21,29 @@ header {
     font-family: "Roboto", sans-serif;
 }
 
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+header li {
+    display: inline;
+    float: left;
+}
+
+header li a {
+    display: block;
+    text-align: center;
+    padding: 8px;
+    text-decoration: none;
+}
+
+hr {
+    border: 1px solid #205072;
+}
+
 
 main {
     padding: 20px;    
@@ -36,6 +59,9 @@ footer {
     height: auto;
     width: 100%;    
     font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+    border-width: 5px;
+    border-style: ridge;
 }
 
 footer nav {
@@ -44,13 +70,16 @@ footer nav {
 }
 
 a:link {
-    color: #205072;
+    color: #000;
     text-decoration: none;
 }
 
 a:visited {
-    color: #329D9C;
+    color: #1c4664;
     text-decoration: none;
 }
 
-
+a:hover {
+    color: #F5FFEB;
+    text-decoration: underline;
+}
