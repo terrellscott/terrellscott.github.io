@@ -5,12 +5,12 @@ html {
 body {
     margin: 0;
     padding: 0;
-    background-color: #7BE495;    
+    background-color: #205072;    
     color: #F5FFEB;
     font-family: "Hind", sans-serif;
     font-weight: bold;
     background-image: linear-gradient(#7BE495, #205072);
-    height: 80%;
+    background-attachment: fixed;
 }
 
 header {   
@@ -49,12 +49,17 @@ main {
     padding: 20px;    
 }
 
+main img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
 footer {
     background-color: #205072;
     color: #CFF4D2;
     padding: 10px 0;
     text-align: center;
-    position: fixed;
     bottom: 0;
     height: auto;
     width: 100%;    
