@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1072.06 213.65">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: ITCAvantGardePro-Bk, 'ITC Avant Garde Gothic Pro';
+        font-size: 174.07px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: linen;
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        font-family: GangofThree, 'Gang of Three';
+        font-size: 200px;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(0 166.21)"><tspan x="0" y="0">RMB</tspan></text>
+  <text class="cls-1" transform="translate(385.56 170.14) rotate(.29) scale(.86 1)"><tspan x="0" y="0">TRAINING</tspan></text>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Layer1">
+    </g>
+    <g id="Layer2" transform="matrix(1,0,0,-1,28,924)">
+        <g transform="matrix(1,0,0,1,44.6703,29.3257)">
+            <path d="M400.913,306.488L403.376,402.875L307.279,402.875C307.428,353.459 344.742,308.647 400.913,306.488Z" style="fill:none;stroke:black;stroke-width:8.06px;"/>
+        </g>
+        <g transform="matrix(-1,0,0,1,851.422,29.3257)">
+            <path d="M403.376,306.488L403.376,402.875L307.279,402.875C304.995,354.653 347.395,306.511 403.376,306.488Z" style="fill:none;stroke:black;stroke-width:8.06px;"/>
+        </g>
+    </g>
+    <g id="Layer21" serif:id="Layer2" transform="matrix(1,0,0,-1,155.343,924)">
+        <g transform="matrix(1,0,0,1,45.8108,29.3257)">
+            <path d="M400.913,306.488L403.376,402.875L307.279,402.875C311.732,350.748 349.644,305.549 400.913,306.488Z" style="fill:none;stroke:black;stroke-width:8.06px;"/>
+        </g>
+        <g transform="matrix(-1,0,0,1,851.422,29.3257)">
+            <path d="M403.376,306.488L403.376,402.875L307.279,402.875C304.995,354.653 347.395,306.511 403.376,306.488Z" style="fill:none;stroke:black;stroke-width:8.06px;"/>
+        </g>
+    </g>
+    <g transform="matrix(-1,-0,0,-1,750.081,894.674)">
+        <g id="Layer22" serif:id="Layer2">
+            <path d="M403.376,306.488L403.376,402.875L307.279,402.875C304.995,354.653 347.395,306.511 403.376,306.488Z" style="fill:none;stroke:black;stroke-width:8.06px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,-1,329.919,894.674)">
+        <g id="Layer23" serif:id="Layer2">
+            <path d="M400.913,306.488L403.376,402.875L307.279,402.875C307.428,353.459 344.742,308.647 400.913,306.488Z" style="fill:none;stroke:black;stroke-width:8.06px;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,147 @@
+body {
+    margin: 0;
+    padding: 10px;
+    background-color: #36454F;
+    font-family: 'Avenir Book', sans-serif;   
+}
+ h2 {
+    font-family: "Avenir Black";
+ }
+header {
+    padding-top: 10px;
+    text-align: center;
+}
+
+header img {
+    background-color: #FFF;
+}
+
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+header li {
+    display: inline;
+    float: left;
+}
+
+header li a {
+    display: block;
+    text-align: center;
+    padding: 8px;
+    text-decoration: none;
+}
+
+
+a:link {
+    color: #FB8B24;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #FB8B24;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FAF0E6;
+    text-decoration: underline;
+}
+
+
+hr {
+    border: 1px solid #FB8B24;
+}
+
+
+main {
+    background-image: url("images/RMB/vignette.jpg");
+    background-size: cover;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #FAF0E6;
+    
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+
+}
+
+/*Brand Color Palette*/
+.circles {
+    width: 33%;
+    float: left;
+   
+}
+
+.color-name {
+    margin-top: 6px;
+    font-family: Lato, sans-serif;
+    color: #3e4749;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: none;
+}
+
+.color-hex {
+    margin-top: 1px;
+    color: #879499;
+    text-align: center;
+}
+
+
+.circle {  
+    background-color: #36454F;
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 100px;
+  }
+
+  .circle.one {
+    background-color: #FB8B24;
+  }
+
+  .circle.two {
+    background-color: #F8F5F2;
+  }
+
+  .circle.three {
+    background-color: #EDB83D;
+  }
+
+footer {
+    
+    background-color: #36454F;
+    color: #FAF0E6;
+    padding: 10px 0;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    height: auto;
+    width: 100%;    
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+    border-width: 5px;
+    border-style: ridge;
+    border-color: #FB8B24;
+  
+    height: 8rem;
+    
+}
+
+footer nav {
+    padding: 5px;
+
+}
+
